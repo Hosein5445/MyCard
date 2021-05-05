@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebProjects\\MyCard\\MyCardProject\\MyCardProject.csproj",
+      "projectUniqueName": "D:\\WebProjects\\MyCard\\MyCardProject.csproj",
       "projectName": "MyCardProject",
-      "projectPath": "D:\\WebProjects\\MyCard\\MyCardProject\\MyCardProject.csproj",
+      "projectPath": "D:\\WebProjects\\MyCard\\MyCardProject.csproj",
       "packagesPath": "C:\\Users\\Lenovo T510\\.nuget\\packages\\",
-      "outputPath": "D:\\WebProjects\\MyCard\\MyCardProject\\obj\\",
+      "outputPath": "D:\\WebProjects\\MyCard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Instal\\VS\\Shared\\NuGetPackages"
